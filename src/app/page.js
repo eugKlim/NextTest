@@ -41,7 +41,7 @@ export default function Home() {
             >
               <Image
                 className={styles.logo}
-                src="/vercel.svg"
+                src="/NextTest/vercel.svg"
                 alt="Vercel logomark"
                 width={20}
                 height={20}
